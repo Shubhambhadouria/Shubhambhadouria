@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Singh Bhadouria</h1>
-<h3 align="center">I'm a Java Developer skilled in Java stack who loves to write code.</h3>
+<h3 align="center">I'm an Aspiring Java Developer who focuses on writing clean and efficient code. I have a problem-solving attitude and  always up for new challenges. </h3>
+<h3 align="center">I am looking for an opportunity where I can implement the best of my knowledge and effectively contribute to my skills.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhambhadouria&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhadouria" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhambhadouria" alt="shubhambhadouria" /></a> </p>
