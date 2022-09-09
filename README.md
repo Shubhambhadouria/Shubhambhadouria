@@ -25,7 +25,6 @@
 
 
 <h3 align="left">My GitHub Stats:</h3>
-<p><img align="left" height="410" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambhadouria&show_icons=true&locale=en&border_radius=0&theme=dark" alt="shubhambhadouria" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhambhadouria&show_icons=true&border_radius=0&theme=dark" alt="shubhambhadouria" /></p>
 
