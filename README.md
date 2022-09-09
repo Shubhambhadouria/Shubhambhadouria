@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Singh Bhadouria</h1>
+
 <h3 align="center">I'm an Aspiring Java Developer who focuses on writing clean and efficient code. I have a problem-solving attitude and  always up for new challenges. </h3>
 <h3 align="center">I am looking for an opportunity where I can implement the best of my knowledge and effectively contribute to my skills.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhambhadouria&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhadouria" /> </p>
@@ -13,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vifmE5zwBdAXgBXDJ9jtZEQN8H5fMJPa/view?usp=sharing](https://drive.google.com/file/d/1vifmE5zwBdAXgBXDJ9jtZEQN8H5fMJPa/view?usp=sharing)
 
-## Connect with me  
+## 🌐Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/shubham-singh-bhadouria-aa55a114b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -33,7 +34,7 @@
 <br/>  
 
 
-## Tech Stack 
+## 💻Tech Stack 
 ### ⚡ Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -55,13 +56,14 @@
 
 
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShubhamBhadouria&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBhadouria&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamBhadouria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## My GitHub Stas
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhambhadouria&show_icons=true&border_radius=0&theme=dark" alt="shubhambhadouria" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambhadouria&theme=dark" alt="shubhambhadouria" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=ShubhamBhadouria&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## GitHub Trophies
+## 🏆GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhambhadouria&layout=compact&theme=onedark" alt="shubhambhadouria" /></a> </p>
