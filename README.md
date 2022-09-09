@@ -60,9 +60,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShubhamBhadouria&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBhadouria&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamBhadouria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## :trophy: Recent GitHub Activity
+  <br/>
+   <a href="https://github.com/Shubhambhadouria"><img alt="Shubhambhadouria's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shubhambhadouria&custom_title=Shubhambhadouria's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ShubhamBhadouria&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🏆GitHub Trophies
