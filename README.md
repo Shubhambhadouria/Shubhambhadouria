@@ -5,14 +5,15 @@
 <h3 align="center">I am looking for an opportunity where I can implement the best of my knowledge and effectively contribute to my skills.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhambhadouria&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhadouria" /> </p>
 
-
+- 🌍 I'm based in Madhya Pradesh, India
 - 🌱 I’m currently learning **Java.**
 
-- 👨‍💻 All of my projects are available at [https://shubhambhadouria.github.io/Portfolio/](https://shubhambhadouria.github.io/Portfolio/)
 
 - 📫 How to reach me **shubhambhadouria07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vifmE5zwBdAXgBXDJ9jtZEQN8H5fMJPa/view?usp=sharing](https://drive.google.com/file/d/1vifmE5zwBdAXgBXDJ9jtZEQN8H5fMJPa/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1vifmE5zwBdAXgBXDJ9jtZEQN8H5fMJPa/view?usp=sharing](https://drive.google.com/file/d/1vifmE5zwBdAXgBXDJ9jtZEQN8H5fMJPa/view?usp=sharing)
+
+- 💼 Portfolio https://shubhambhadouria.github.io/Portfolio/
 
 ## 🌐Connect with me  
 <div align="center">
@@ -32,22 +33,25 @@
 
 
 ## 💻Tech Stack 
-### ⚡ Languages
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### 🚀 Libraries & Frameworks
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
+
+
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
 <!-- <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a> -->
 
-### 💻 Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 
 
