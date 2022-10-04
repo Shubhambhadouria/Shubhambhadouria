@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shubhambhadouria07@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1vifmE5zwBdAXgBXDJ9jtZEQN8H5fMJPa/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Zj6KsP_4RZrOBwiXXNk_npuO_1N-YqC7/view?usp=sharing)
 
 - 💼  All of my projects are available at [**Portfolio**](https://shubhambhadouria.github.io/Portfolio/)
 
