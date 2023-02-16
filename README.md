@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhambhadouria&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhadouria" /> </p>
 
 - 🌍 I'm based in Madhya Pradesh, India
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently working in [**ZKTeco India**](https://www.zkteco.in/) as "Java Trainee"
 
 
 - 📫 How to reach me **shubhambhadouria07@gmail.com**
