@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Singh Bhadouria</h1>
 
-<h3 align="center">An Aspiring Java Developer who focuses on writing clean and efficient code, having problem-solving attitude and  always up for new challenges. </h3>
-<h3 align="center">Worked through 2000+ hours of coding in various tech stacks such as Java, Spring Boot, MySql, HTML5, CSS3 and Javascript.</h3>
+<h3 align="center">A Java Trainee who focuses on writing clean and efficient code, having problem-solving attitude and  always up for new challenges. </h3>
+<h3 align="center">Worked through 2160+ hours of coding in various tech stacks such as Java, Spring Boot, MySql, HTML5, CSS3 and Javascript.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhambhadouria&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhadouria" /> </p>
 
 - 🌍 I'm based in Madhya Pradesh, India
